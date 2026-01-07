@@ -6,3 +6,7 @@ First Solo Project
  - To run this program, you need to execute the app.py file, which will generate a display window that you can interact with. This allows you to view both your predicted and current times for the variety of distances you input.
 
  - The files — calculations.py, predictions.py, utils.py, and zones.py—contain the code responsible for performing the calculations. The results.py file receives the output from these files, displays the results to the user, and provides the option to save them.
+
+## images
+This is the main output through the display:
+<img width="544" height="425" alt="Running tracker " src="https://github.com/user-attachments/assets/19914a6a-c861-4c58-93e7-3ae1944daf5c" />
