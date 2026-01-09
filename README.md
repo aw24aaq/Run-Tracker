@@ -1,4 +1,4 @@
-# Run-Tracker
+# Run-Tracker 🏃👟
 First Solo Project - (15/12/2025 - 03/01/2026)
 
 ## How to Run
