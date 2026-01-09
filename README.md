@@ -18,4 +18,4 @@ This is an image of the text file that the user can save the output as:
 
 ## Next Steps
 
-- My aim is to recreate this project in Java and explore ways to run the application on a mobile device.
+- My aim is to recreate this project in Java and explore ways to run the application on a mobile device. 
