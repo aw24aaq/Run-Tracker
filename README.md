@@ -20,7 +20,7 @@ This is an image of the text file that the user can save the output as:
 
 - My aim is to recreate this project in Java and explore ways to run the application on a mobile device.
 
-##Converted to Java
-##How it runs
+## Converted to Java
+## How it runs
 
 
