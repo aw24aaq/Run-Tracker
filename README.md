@@ -1,6 +1,5 @@
 # Run-Tracker 🏃👟
-First Solo Project - (15/12/2025 - 03/01/2026)
-
+First Solo Project - (15/12/2025 - 03/01/2026) - Python
 ## How to Run
 
  - To run this program, you need to execute the app.py file, which will generate a display window that you can interact with. This allows you to view both your predicted and current times for the variety of distances you input.
@@ -20,7 +19,8 @@ This is an image of the text file that the user can save the output as:
 
 - My aim is to recreate this project in Java and explore ways to run the application on a mobile device.
 
-## Converted to Java
+## Run-Tracker Version 2🏃👟 
+First Solo Project - (03/01/2026 - 01/02/2026) - Java
 ## How to run
 
 
